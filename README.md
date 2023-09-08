@@ -17,4 +17,4 @@
  <img aling="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Atualmente maior gosto por Front-end web development, mas com interesse e curiosidade em tudo um pouco que engloba a área de informática👩‍💻
+Atualmente maior gosto por Front-end web development, mas com interesse e curiosidade em tudo um pouco que engloba a área de informática👩🏾‍💻
