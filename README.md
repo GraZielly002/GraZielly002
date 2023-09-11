@@ -4,9 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fgrazielly301?igshid=MWM2YjbjM2Q=)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/79U6pI6s9PyuTBWMXZwgnB?si=39b2dc3b2ac441e4)
 
-![Grazielly GitHub stats](https://github-readme-stats.vercel.app/api?username=GraZielly002&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraZielly002&layout=compact&theme=radical)](https://github.com/GraZielly002/github-readme-stats)
+![Grazielly GitHub stats](https://github-readme-stats.vercel.app/api?username=GraZielly002&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraZielly002&layout=compact&theme=tokyonight)
 
 ### ***Tecnologias:***
 <div style="display: inline_block">
