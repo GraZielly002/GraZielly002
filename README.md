@@ -22,4 +22,4 @@
  <img aling="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-### Atualmente maior gosto por Front-end web development, mas com interesse e curiosidade em tudo um pouco que engloba a área de informática👩🏾‍💻
+#### *Atualmente maior gosto por Front-end web development, mas com interesse e curiosidade em tudo um pouco que engloba a área de informática*👩🏾‍💻
